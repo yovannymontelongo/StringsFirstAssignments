@@ -1,10 +1,4 @@
-//import edu.duke.*;
-
-public class Part1{
-    public static void main(String[] args) {
-        testSimpleGene();
-    }
-
+public class Part2 {
     public static String findGeneSimple(String dna) {
         String result = "";
 
