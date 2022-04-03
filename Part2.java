@@ -1,4 +1,9 @@
 public class Part2 {
+
+    public static void main(String[] args) {
+        testSimpleGene();
+    }
+
     public static String findGeneSimple(String dna) {
         String result = "";
 
